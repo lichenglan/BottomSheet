@@ -1,0 +1,3 @@
+# BottomSheet
+底部弹窗demo
+使用BottomSheetDialog和recyclerView实现底部弹窗并支持手势控制
